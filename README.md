@@ -1,4 +1,4 @@
-## Hi there 👋
+My first repository and exited to learn new skills.
 
 <!--
 **bdvann88/bdvann88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
